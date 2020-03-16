@@ -12,4 +12,4 @@
 */
 
 
-Route::get('/', 'staticPageController@cds');
+Route::get('/', 'StaticPageController@cds');
